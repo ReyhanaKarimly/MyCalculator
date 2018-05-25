@@ -1,0 +1,9 @@
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+D:\MYDOCUMENTS\PAM\SDFundamentals\MyCalculator\MyCalculator\obj\Debug\MyCalculator.MyCalculator.resources
